@@ -1,2 +1,2 @@
-print " new page added "
-hi m doiing gooooood 
+print 
+"hiu ma tho naku ninyao"
